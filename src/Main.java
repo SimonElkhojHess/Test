@@ -36,7 +36,7 @@ public class Main {
         if (gaet == tal)
             System.out.println("Dit gæt er korrekt");
 
-        //Hvis gæt er forskelligt fra tal gå til 2.
+        //Hvis gæt er forskelligt fra tal gå til 2.lk
 
 
     }
